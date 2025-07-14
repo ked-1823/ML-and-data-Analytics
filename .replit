@@ -1,4 +1,4 @@
-entrypoint = "day7.py"
+entrypoint = "linreg2.py"
 modules = ["python-3.11"]
 
 [nix]
