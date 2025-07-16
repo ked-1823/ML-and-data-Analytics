@@ -1,4 +1,4 @@
-entrypoint = "linreg2.py"
+entrypoint = "logistic.py"
 modules = ["python-3.11"]
 
 [nix]
